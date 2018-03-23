@@ -10,7 +10,7 @@ export const Page = () => (
   <👻>
     <Section name="introduction">
       <h1>Introductin</h1>
-      <p>By default Section wraps it's content with a div<p>
+      <p>By default Section wraps it's content with a div</p>
     </Section>
     <Section name="chapterOne" component="section">
       <h2>Chapter one</h2>
